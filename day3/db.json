@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": 2, "name": "vineeth" },
+    { "id": 5, "name": "pranay" },
+    { "id": 6, "name": "ganesh" },
+    { "id": 1, "name": "ganesh" }
+  ]
+}
